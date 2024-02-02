@@ -1,6 +1,6 @@
 # Task-Tracker-Backend
 In this project we are creating the rest api for the "Task Tracker" app. 
-We will create end points like 
+We will create end points like this(we are using port 8081 to run the server )
 1. get -> http://localhost:8081/api/tasks  -> retrives all tasks
 2. post -> http://localhost:8081/api/tasks -> create a task
 3. put -> http://localhost:8081/api/tasks/{taskId} -> update the task
